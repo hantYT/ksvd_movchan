@@ -9,17 +9,9 @@ git clone https://github.com/hantYT/ksvd_movchan.git
 ```
 pip install -r requirements.txt
 ```
-Отримайте API Token:
-Зайдіть на Kaggle.
-
-Натисніть на свій профіль → Account.
-
-Прокрутіть вниз до розділу API.
-
-Натисніть Create New API Token — буде завантажено файл kaggle.json.
+Отримайте API Token "kaggle.json"
 
 Перемістіть у папку свого локального юзера windows
-
 
 3. Запустіть графічний інтерфейс:
 ```
