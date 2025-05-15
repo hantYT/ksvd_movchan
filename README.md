@@ -30,7 +30,7 @@
 
 1. Клонуйте репозиторій:
 ```
-git clone https://github.com/username/rent-prediction-system.git
+git clone https://github.com/hantYT/ksvd_movchan.git
 cd rent-prediction-system
 ```
 
