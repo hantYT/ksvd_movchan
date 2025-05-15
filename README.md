@@ -38,6 +38,17 @@ cd rent-prediction-system
 ```
 pip install -r requirements.txt
 ```
+1️⃣ Отримайте API Token:
+Зайдіть на Kaggle.
+
+Натисніть на свій профіль → Account.
+
+Прокрутіть вниз до розділу API.
+
+Натисніть Create New API Token — буде завантажено файл kaggle.json.
+
+Перемістіть у папку свого локального юзера windows
+
 
 3. Запустіть графічний інтерфейс:
 ```
